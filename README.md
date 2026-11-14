@@ -4,7 +4,7 @@
 
 把设计规范写成模型能执行、人能验收的条款：184 条带编号的规则、39 项交付验收，覆盖设计令牌、布局、组件、动效、无障碍与文案。
 
-[快速开始](#快速开始) · [三种用法](#三种用法) · [文档地图](#文档地图)
+[规范正文](./spec.md) · [快速开始](#快速开始) · [三种用法](#三种用法) · [文档地图](#文档地图) · [贡献](#贡献)
 
 > English: A Chinese-first, executable UI/UX and motion specification for AI-generated frontends. It ships 184 numbered clauses, 39 acceptance checks, and 5 prompt templates. English translations and clause-level discussions are welcome.
 
@@ -105,7 +105,6 @@ AI 能在几十秒内生成一个页面，但默认输出往往长得很像：�
 | §7 「AI 味」反模式 | 18 条生成前必扫的检查 | AP-01~AP-18 |
 | §8 交付验收 | 39 项检查，分 7 组 | CHK-01~CHK-39 |
 | §9 提示词模板 | 整页、单组件、动效、存量改造、设计评审 | 5 个 |
-| §10 附录 | 与「设计师 PPM」104 条知识库的映射 | — |
 
 ## 怎么引用条款
 
