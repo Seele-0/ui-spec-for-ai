@@ -4,7 +4,7 @@
 
 把设计规范写成模型能执行、人能验收的条款：184 条带编号的规则、39 项交付验收，覆盖设计令牌、布局、组件、动效、无障碍与文案。
 
-[规范正文](./spec.md) · [快速开始](#快速开始) · [三种用法](#三种用法) · [文档地图](#文档地图) · [贡献](#贡献)
+[快速开始](#快速开始) · [三种用法](#三种用法) · [文档地图](#文档地图)
 
 > English: A Chinese-first, executable UI/UX and motion specification for AI-generated frontends. It ships 184 numbered clauses, 39 acceptance checks, and 5 prompt templates. English translations and clause-level discussions are welcome.
 
